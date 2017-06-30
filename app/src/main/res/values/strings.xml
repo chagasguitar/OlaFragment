@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Meu Mercado</string>
+    <string name="minha_lista_de_compras">Minha lista de compras</string>
+    <string name="fragment_hortfrut">Seção de hortfrut</string>
+    <string name="fragment_acougue">Seção de Açougue</string>
+    <string name="fragment_laticinio">Seção de Laticínios</string>
+    <string name="fragment_higiene">Seção de produtos de higiene</string>
+    <string name="fragment_limpeza">Seção de produtos de limpeza</string>
+    <string name="fragment_bebidas">Seção de bebidas</string>
+    <string name="cadastrar">cadastrar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome_do_produto_hortfrut">Nome do produto hortfrut</string>
+    <string name="tipo_do_produto">Tipo do produto</string>
+    <string name="btn_ok">OK</string>
+    <string name="minha_lista_de_produtos">Minha lista de produtos</string>
+    <string name="produtos_cadastrados">Produtos cadastrados</string>
+</resources>
